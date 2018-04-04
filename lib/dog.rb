@@ -1,3 +1,7 @@
-class Dog 
-  #code, with getters and setters 
+class Dog
+
+  def name=(name)
+    @name = name 
+  end 
+  
 end 
